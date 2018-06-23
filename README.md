@@ -5,7 +5,7 @@ This is a simple ATM simulation that stores data in an encrypted text file on di
 
 ### Classes:
 #### User:
-This is the user class which creates storage objects for the name, id, pin, and balance
+This is the user class which creates storage objects for the name, id, pin, and balance.
 This includes setters, getters, and a utility for printing out object info.
 #### ATMsim:
 Here we present a simple menu system to allow user to create account,
