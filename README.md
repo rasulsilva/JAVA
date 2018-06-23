@@ -16,8 +16,8 @@ This class provides static functions for reading from and writing to text files.
 #### Cipher:
 This is a very rudimentary and honestly unsafe encryption strategy. It can be
 easily decoded, but for the purpose of a small project it will suffice. Ceasar's
-cipher simpy takes each char in a given text and replaces it with a new char 
-that is if distance (key) away in the alphabet. The implementation here is quite
+cipher simply takes each char in a given text and replaces it with a new char 
+that is of distance (key) away in the alphabet. The implementation here is quite
 simple.
 
 
