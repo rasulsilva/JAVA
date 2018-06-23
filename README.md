@@ -25,6 +25,6 @@ simple.
 1. Decrypt text file from memory
 2. Extract user information and occupy object array
 3. Interact with array of user objects through menu choices: add accounts, remove accounts, make deposits and withdrawals, etc.
-4. exit program and write state back to disk.
+4. exit program and write state back to disk as encrypted text file.
 
 
